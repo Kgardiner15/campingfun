@@ -1,0 +1,10 @@
+{
+"description": "serverless wordpress",
+	"scripts": {
+		"build": "diy-pwa build campingfun",
+		"preview": "diy-pwa preview campingfun"
+	},
+	"devDependencies": {
+		"diy-pwa": "latest"
+	}
+}
